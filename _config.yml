@@ -1,5 +1,5 @@
 # Site settings
-title: The Minimum Viable Model
+title: Wooks Blog
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -24,9 +24,9 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
+author: wooks # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author: 저는 항상 새로운 것을 배우고 도전하는 것을 즐깁니다. 수학과 코드 개발을 통해 문제에 접근하고 해결하는 것을 통해 새로운 것을 발견하고 배우는 것을 즐기며, 끊임없이 성장하고 싶습니다. 제 뛰어난 수학 능력과 코드 개발 능력을 활용하여 혁신적이고 도전적인 프로젝트에 기여하고 싶습니다.
 
 # Contact links
 email: armando.maynez@gmail.com # Add your Email address
